@@ -1,0 +1,11 @@
+1. How would you automate this process so that we can get new datasets every day?
+Answer: At the beginning we need a source to get data
+Then we should build a parser using automation tool like Selenium
+
+2. What file format would you use to store this data?
+Answer: It depends on situation. Xml, JSON and Csv file formats are used in most cases. I use .csv 
+format mostly
+
+3. How would you evaluate the quality of the collected data?
+Answer: First of all the data should be correct. Then I check is there any missing values.
+Is there any noise such as duplicate rows?
